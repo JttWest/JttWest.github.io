@@ -20,7 +20,7 @@
 ### Image Steganography Android App ([App Source](https://github.com/JttWest/StegoCrypto_App) / [Server Source](https://github.com/JttWest/StegoCrypto_server)) – Team of 4
 **An app that allows a user to embed secret message into an image at the bitmap level and transfer it to other users. Encryption and decryption of the image is performed by a custom-built hardware module that communicates with the app through Bluetooth.**
 
-- Built an image storage/transfer server with RESTful API in Node.js + MongoDB
+- Built an image storage/transfer server with RESTful API using Node.js + MongoDB
 
 - Developed native Android UI with Java
 
