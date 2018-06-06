@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 
 title: JttWest
 description: My personal website.
-github:
-  repository_url: https://github.com/JttWest
+footer-links:
+  github: jttwest
