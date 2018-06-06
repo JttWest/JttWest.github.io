@@ -1,6 +1,6 @@
 # Personal Projects
 
-### _Bumper.io_ ([click here to play](http://demo.jttwest.me)) – Solo
+### _Bumper.io_ ([Source](https://github.com/JttWest/Bumper.io/)) – Solo
 **A real-time multiplayer game that is played using a web browser.**
 
 - Built browser client with Semantic-UI, jQuery and Webpack
