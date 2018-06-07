@@ -1,4 +1,17 @@
-# Personal Projects
+# Technical Projects
+
+### _Retifish_ ([Click here to see it in action](https://www.retifish.com/)) – Solo
+**Web app for users to send and receive any file up to 5GB in real-time.**
+
+- Built browser client with React, Webpack and Semantic-UI
+
+- Built backend server with Go
+
+- Implemented custom protocol to increase transfer speed by enabling the receiver to download while sender is still uploading the file
+
+- Implemented reverse proxy using Nginx
+
+- Configured domain hosting and SSL certificate
 
 ### _Bumper.io_ ([Source](https://github.com/JttWest/Bumper.io/)) – Solo
 **A real-time multiplayer game that is played using a web browser.**
